@@ -1,0 +1,24 @@
+{
+  "name": "jubot",
+  "version": "1.0.0",
+  "description": "bot for discord",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsestech/jubot.git"
+  },
+  "author": "xsestech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsestech/jubot/issues"
+  },
+  "homepage": "https://github.com/xsestech/jubot#readme"
+}
