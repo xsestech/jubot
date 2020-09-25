@@ -9,5 +9,5 @@ module.exports.run = async (bot, message, args)=>{
     message.channel.send(msg2).catch();
 };
 module.exports.help = {
-    name:"kdalkdskkskskskskskskkskal"
+    name:"fsdskjklkjlkj"
 };
